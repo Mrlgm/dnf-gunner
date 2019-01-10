@@ -1,0 +1,5 @@
+export default [
+    {id:0,name:"无",power:0,poPower:0,atk:0,poAtk:0,strong:0,huang:0,bai:0,bao:0,attBai:0,finalInjury:0,skillAttack:0,skillLevel15:0,skillLevel20:0,skillLevel25:0,skillLevel30:0,skillLevel35:0,skillLevel40:0,skillLevel45:0,skillLevel48:0,skillLevel50:0,skillLevel70:0,skillLevel75:0,skillLevel80:0,skillLevel85:0,TPLevel:0,},
+    {id:1,name:"网吧特权",power:100,poPower:0,atk:0,poAtk:0,strong:0,huang:0,bai:0,bao:0,attBai:0,finalInjury:0,skillAttack:0,skillLevel15:1,skillLevel20:1,skillLevel25:1,skillLevel30:1,skillLevel35:1,skillLevel40:1,skillLevel45:1,skillLevel48:1,skillLevel50:1,skillLevel70:1,skillLevel75:1,skillLevel80:1,skillLevel85:1,TPLevel:1,},
+    {id:2,name:"幸运角色",power:0,poPower:0,atk:0,poAtk:0,strong:0,huang:0,bai:0,bao:0,attBai:0,finalInjury:0,skillAttack:0,skillLevel15:1,skillLevel20:1,skillLevel25:1,skillLevel30:1,skillLevel35:1,skillLevel40:1,skillLevel45:1,skillLevel48:1,skillLevel50:1,skillLevel70:1,skillLevel75:1,skillLevel80:1,skillLevel85:1,TPLevel:0,},
+]
